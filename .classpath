@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Collections/src"/>
+	<classpathentry kind="src" path="Final Project/src"/>
+	<classpathentry kind="src" path="Functions/src"/>
+	<classpathentry kind="src" path="Java IDE IntelliJ Idea/src"/>
+	<classpathentry kind="src" path="Object Oriented Programming - Advanced/src"/>
+	<classpathentry kind="src" path="Polymorphism and Inheritance/src"/>
+	<classpathentry kind="src" path="Unit Testing with JUnit/src"/>
+	<classpathentry kind="output" path="Final Project/out/production/JAVA-13 - Final Project"/>
+</classpath>

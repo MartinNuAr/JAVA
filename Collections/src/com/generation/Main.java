@@ -16,7 +16,8 @@ public class Main
 
         courseService.unEnrollStudent( studentId, courseId );
         courseService.displayStudentInformation( studentId);
-    }
+        
+    } // main
 
 
-}
+} // Main
